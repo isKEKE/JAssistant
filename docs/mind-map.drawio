@@ -1,0 +1,52 @@
+<mxfile host="Electron" modified="2025-05-01T16:42:01.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="cppkOQ2UZQpBkhlyUi4I" version="23.1.5" type="device">
+  <diagram name="第 1 页" id="qrRSVUKsW4TVOzhGbUu0">
+    <mxGraphModel dx="1098" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O3v6zYWNj99hg9bmZBX8-13" value="Intelligent Voice System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="240" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="O3v6zYWNj99hg9bmZBX8-14" value="Intelligent AI system" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="460" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="O3v6zYWNj99hg9bmZBX8-15" value="Tools/Services/Resources" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="670" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="O3v6zYWNj99hg9bmZBX8-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="O3v6zYWNj99hg9bmZBX8-14" target="O3v6zYWNj99hg9bmZBX8-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="520" as="sourcePoint" />
+            <mxPoint x="400" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O3v6zYWNj99hg9bmZBX8-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="O3v6zYWNj99hg9bmZBX8-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389.58000000000004" y="310" as="sourcePoint" />
+            <mxPoint x="390" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O3v6zYWNj99hg9bmZBX8-18" value="Voice Activity Detection&lt;br&gt;(VAD)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="190" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O3v6zYWNj99hg9bmZBX8-19" value="Speech To Text&lt;br&gt;(STT)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O3v6zYWNj99hg9bmZBX8-20" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="442.5" width="70" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="O3v6zYWNj99hg9bmZBX8-21" value="Large Language Model&lt;br&gt;(LLM)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="410" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O3v6zYWNj99hg9bmZBX8-22" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="222.5" width="70" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="O3v6zYWNj99hg9bmZBX8-23" value="Retrieval-Augmented Generation&lt;br&gt;(RAG)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="520" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O3v6zYWNj99hg9bmZBX8-24" value="&lt;h1&gt;Version 0.0.1&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="770" width="190" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
